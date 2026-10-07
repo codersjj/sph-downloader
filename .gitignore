@@ -1,0 +1,7 @@
+node_modules/
+downloads/
+vendor/
+.DS_Store
+*.mp4
+.gh-config/
+*.log
